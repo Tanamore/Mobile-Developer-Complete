@@ -6,17 +6,15 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center_vertical"
-    android:background="@color/green2"
+    android:orientation="vertical"
+    android:gravity="center"
     tools:context=".SplashScreenActivity">
 
-    <TextView
+    <!-- ImageView untuk menampilkan gambar splashscreen -->
+    <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:text="Tanamore"
-        android:textColor="@color/white"
-        android:fontFamily="@font/poppins_extrabold"
-        android:textSize="50dp"/>
-
+        android:src="@drawable/splashscreen1"
+        android:contentDescription="Splash Screen Image"
+        android:scaleType="fitXY"  />
 </LinearLayout>

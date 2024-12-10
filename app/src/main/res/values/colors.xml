@@ -12,4 +12,15 @@
     <color name="green">#1CDA03</color>
     <color name="green2">#1A7E0D</color>
 
+    <color name="red">#F44336</color>
+
+
+    <color name="primary_green">#114232</color>
+    <color name="primary_yellow">#FCDC2A</color>
+    <color name="secondary_green">#87A922</color>
+    <color name="secondary_yellow">#F7F6BB</color>
+
+    <color name="white_bg">#66EFEFEF</color>
+
+
 </resources>

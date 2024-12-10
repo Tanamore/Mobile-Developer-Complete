@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
         // Menginisialisasi FirebaseAuth
         auth = FirebaseAuth.getInstance()
 
-        // Logout Button Listener
 
 
         // Menginisialisasi BottomNavigationView
