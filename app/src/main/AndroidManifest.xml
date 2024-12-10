@@ -27,6 +27,12 @@
         android:theme="@style/Theme.TanamoreTest"
         tools:targetApi="31">
         <activity
+            android:name=".splashScreen.SplashScreenActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".splashScreen.SplashScreenActivity2"
+            android:exported="false" />
+        <activity
             android:name=".ui.scanPenyakit.DetailPenyakitActivity"
             android:exported="false" />
         <activity
@@ -54,7 +60,7 @@
             android:name=".ui.profile.UpdatePasswordActivity"
             android:exported="false" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name=".splashScreen.SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

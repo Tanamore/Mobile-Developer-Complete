@@ -1,28 +1,29 @@
-package com.bangkit.tanamoretest
+package com.bangkit.tanamoretest.splashScreen
 
-import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
-import android.os.Handler
-import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
+import com.bangkit.tanamoretest.MainActivity
+import com.bangkit.tanamoretest.R
 import com.bangkit.tanamoretest.login.LoginActivity
+import com.google.android.material.button.MaterialButton
 import com.google.firebase.auth.FirebaseAuth
 
-@SuppressLint("CustomSplashScreen")
-class SplashScreenActivity : AppCompatActivity() {
+class SplashScreenActivity3 : AppCompatActivity() {
 
     private lateinit var auth: FirebaseAuth
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_splash_screen)
+        setContentView(R.layout.activity_splash_screen3
+        )
 
         // Inisialisasi FirebaseAuth
         auth = FirebaseAuth.getInstance()
 
-        // Handler untuk menunggu beberapa detik sebelum berpindah Activity
-        Handler(Looper.getMainLooper()).postDelayed({
+        // Tombol Next untuk berpindah ke layar berikutnya
+        val nextButton = findViewById<MaterialButton>(R.id.btn_next)
+        nextButton.setOnClickListener {
             // Cek apakah user sudah login
             if (auth.currentUser != null) {
                 // Jika sudah login, arahkan ke MainActivity
@@ -34,9 +35,9 @@ class SplashScreenActivity : AppCompatActivity() {
                 // Jika belum login, arahkan ke LoginActivity
                 Intent(this, LoginActivity::class.java).also {
                     startActivity(it)
-                    finish()
+                    finish() // Tutup SplashScreen agar tidak kembali lagi
                 }
             }
-        }, 2000) // Delay 2000ms (2 detik)
+        }
     }
 }
