@@ -13,10 +13,17 @@
         android:padding="8dp"
         android:elevation="4dp">
 
-        <View
+        <!-- Teks Kebunku -->
+        <TextView
+            android:id="@+id/tv_kebunku"
             android:layout_width="0dp"
-            android:layout_height="0dp"
-            android:layout_weight="1" />
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Kebunku"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textAppearance="@style/tittle_green"/>
 
         <!-- Bell Icon -->
         <ImageView

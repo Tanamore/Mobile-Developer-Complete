@@ -17,23 +17,35 @@
         android:elevation="4dp"
         tools:ignore="MissingConstraints">
 
-        <!-- Back Icon -->
+        <!-- Icon Kembali -->
         <ImageView
             android:id="@+id/iv_back"
             android:layout_width="30dp"
-            android:layout_height="25dp"
-            android:layout_gravity="center_vertical"
-            android:layout_marginEnd="16dp"
+            android:layout_height="30dp"
             android:src="@drawable/left"
-            android:contentDescription="Back" />
+            android:contentDescription="Back"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="16dp" />
 
-        <!-- Space to push bell to the right -->
+        <!-- Teks Tambahkan Reminder -->
+        <TextView
+            android:id="@+id/tv_reminder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tambahkan Reminder"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textAppearance="@style/tittle_green"/>
+
+        <!-- Ruang untuk mengatur tata letak -->
         <View
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_weight="1" />
     </LinearLayout>
-
 
 
     <TextView

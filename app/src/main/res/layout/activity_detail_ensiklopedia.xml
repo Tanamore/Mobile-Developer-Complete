@@ -34,7 +34,7 @@
             android:layout_weight="1"
             android:text="@string/page_detail_ensiklopdia"
             android:textAppearance="@style/tittle_green"
-            android:gravity="center_horizontal" />
+            android:gravity="center_horizontal"/>
     </LinearLayout>
 
     <!-- NestedScrollView untuk konten scrollable -->

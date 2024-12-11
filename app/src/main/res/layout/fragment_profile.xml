@@ -6,12 +6,37 @@
     android:layout_height="match_parent"
     tools:context=".ui.profile.ProfileFragment">
 
+
+    <LinearLayout
+        android:id="@+id/headerLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_margin="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/pageTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_weight="1"
+            android:text="Profile"
+            android:textAppearance="@style/tittle_green"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+
+
     <!-- Foto Profil -->
     <ImageView
         android:id="@+id/ivProfilePhoto"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="70dp"
         android:src="@drawable/download"
         android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"
@@ -131,7 +156,11 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="32dp"
-        android:text="Keluar"
+        android:text="Log Out"
+        android:drawablePadding="8dp"
+        android:backgroundTint="@color/red"
+        android:textColor="@color/white"
+        android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/cvForm"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
