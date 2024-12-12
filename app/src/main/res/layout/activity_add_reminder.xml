@@ -15,7 +15,6 @@
         android:elevation="4dp"
         android:layout_margin="8dp">
 
-        <!-- Baris Tombol Kembali -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -24,7 +23,6 @@
             android:elevation="4dp"
             tools:ignore="MissingConstraints">
 
-            <!-- Icon Kembali -->
             <ImageView
                 android:id="@+id/iv_back"
                 android:layout_width="30dp"
@@ -34,7 +32,6 @@
                 android:layout_gravity="center_vertical"
                 android:layout_marginEnd="16dp" />
 
-            <!-- Teks Tambahkan Reminder -->
             <TextView
                 android:id="@+id/tv_reminder"
                 android:layout_width="wrap_content"
@@ -47,7 +44,6 @@
                 android:gravity="center"
                 android:textAppearance="@style/tittle_green"/>
 
-            <!-- Ruang untuk mengatur tata letak -->
             <View
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -65,7 +61,6 @@
             android:textColor="@android:color/black"
             android:textSize="16sp" />
 
-        <!-- Pilihan Reminder -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -100,7 +95,6 @@
                 android:textSize="14sp" />
         </RadioGroup>
 
-        <!-- Input Tanggal -->
         <EditText
             android:id="@+id/et_date_picker"
             android:layout_width="match_parent"
@@ -114,7 +108,6 @@
             android:textColor="@android:color/black"
             android:textSize="16sp" />
 
-        <!-- TimePicker -->
         <TimePicker
             android:id="@+id/time_picker"
             android:layout_width="match_parent"
@@ -122,7 +115,6 @@
             android:timePickerMode="spinner"
             android:layout_marginBottom="16dp" />
 
-        <!-- Tombol Tambah -->
         <Button
             android:id="@+id/btn_add_task"
             android:layout_width="match_parent"

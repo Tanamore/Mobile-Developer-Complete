@@ -30,15 +30,12 @@ class AddReminderActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        // Tambahkan kode ini untuk mengatur klik listener untuk tombol kembali
         binding.ivBack.setOnClickListener {
-            // Kembali ke ReminderActivity
             val intent = Intent(this, ReminderActivity::class.java)
             startActivity(intent)
-            finish() // Menutup AddReminderActivity saat kembali
+            finish()
         }
 
-        // DatePicker untuk memilih tanggal
         binding.etDatePicker.setOnClickListener {
             val calendar = Calendar.getInstance()
             val datePickerDialog = DatePickerDialog(
@@ -56,19 +53,17 @@ class AddReminderActivity : AppCompatActivity() {
             datePickerDialog.show()
         }
 
-        // RadioButton untuk memilih jenis reminder
         binding.reminderTypeGroup.setOnCheckedChangeListener { _, checkedId ->
             when (checkedId) {
                 R.id.radio_harvest -> {
-                    binding.etDatePicker.isEnabled = true // Aktifkan input tanggal
+                    binding.etDatePicker.isEnabled = true
                 }
                 R.id.radio_water -> {
-                    binding.etDatePicker.isEnabled = false // Nonaktifkan input tanggal
+                    binding.etDatePicker.isEnabled = false
                 }
             }
         }
 
-        // Tombol untuk menambah task baru
         binding.btnAddTask.setOnClickListener {
             val taskTitle = binding.etTaskTitle.text.toString()
             val selectedDate = if (binding.etDatePicker.isEnabled) binding.etDatePicker.text.toString() else "Hari Ini"
@@ -80,7 +75,6 @@ class AddReminderActivity : AppCompatActivity() {
                 else -> "Tidak Diketahui"
             }
 
-            // Validasi input
             if (taskTitle.isEmpty() || (binding.etDatePicker.isEnabled && selectedDate.isEmpty())) {
                 Toast.makeText(this, "Mohon isi semua data terlebih dahulu", Toast.LENGTH_SHORT).show()
             } else {
@@ -104,7 +98,6 @@ class AddReminderActivity : AppCompatActivity() {
         taskList.add(newTask)
         saveTaskList(sharedPreferences, taskList)
 
-        // Jadwalkan notifikasi
         if (reminderType == "Siram") {
             scheduleDailyNotification(newTask)
         } else {
@@ -178,7 +171,6 @@ class AddReminderActivity : AppCompatActivity() {
             set(Calendar.HOUR_OF_DAY, task.hour)
             set(Calendar.MINUTE, task.minute)
             set(Calendar.SECOND, 0)
-            // Set setiap hari pada waktu yang sama
             if (timeInMillis < System.currentTimeMillis()) {
                 add(Calendar.DAY_OF_YEAR, 1)
             }
@@ -187,7 +179,7 @@ class AddReminderActivity : AppCompatActivity() {
         alarmManager.setRepeating(
             AlarmManager.RTC_WAKEUP,
             calendar.timeInMillis,
-            AlarmManager.INTERVAL_DAY, // Mengulangi setiap hari
+            AlarmManager.INTERVAL_DAY,
             pendingIntent
         )
     }

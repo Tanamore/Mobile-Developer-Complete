@@ -35,11 +35,9 @@ class ProfileFragment : Fragment() {
         val user = auth.currentUser
 
         if (user != null) {
-            // Set user data into EditText
             binding.etName.setText(user.displayName)
             binding.etEmail.setText(user.email)
 
-            // Handle email verification status
             if (user.isEmailVerified) {
                 binding.ivVerified.visibility = View.VISIBLE
                 binding.ivUnverified.visibility = View.INVISIBLE
@@ -49,7 +47,6 @@ class ProfileFragment : Fragment() {
             }
         }
 
-        // Update profile when Save button is clicked
         binding.btnUpdate.setOnClickListener {
             val name = binding.etName.text.toString().trim()
             if (name.isEmpty()) {
@@ -64,10 +61,9 @@ class ProfileFragment : Fragment() {
 
             user?.updateProfile(userProfileChangeRequest)?.addOnCompleteListener { task ->
                 if (task.isSuccessful) {
-                    // Save name to SharedPreferences
                     val sharedPreferences = requireContext().getSharedPreferences("user_prefs", Context.MODE_PRIVATE)
                     val editor = sharedPreferences.edit()
-                    editor.putString("userName", name)  // Save updated name
+                    editor.putString("userName", name)
                     editor.apply()
 
                     Toast.makeText(activity, "Berhasil update", Toast.LENGTH_SHORT).show()
@@ -95,20 +91,17 @@ class ProfileFragment : Fragment() {
             }
         }
 
-        // Logout and clear user data
         binding.btnLogout.setOnClickListener {
             auth.signOut()
 
-            // Clear the user data stored in SharedPreferences
             val sharedPreferences = requireContext().getSharedPreferences("user_prefs", Context.MODE_PRIVATE)
             val editor = sharedPreferences.edit()
-            editor.remove("userName")  // Remove the stored name
+            editor.remove("userName")
             editor.apply()
 
-            // Navigate to the login activity
             val intent = Intent(context, LoginActivity::class.java)
             startActivity(intent)
-            requireActivity().finish()  // Finish the current activity to remove it from the back stack
+            requireActivity().finish()
         }
     }
 

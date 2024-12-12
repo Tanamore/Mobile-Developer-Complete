@@ -18,6 +18,7 @@ import androidx.core.app.ActivityCompat
 import androidx.lifecycle.ViewModelProvider
 import com.bangkit.tanamoretest.R
 import com.bangkit.tanamoretest.databinding.ActivityKebunAddUpdateBinding
+import com.bangkit.tanamoretest.ui.kebunku.KebunkuFragment
 import com.bangkit.tanamoretest.ui.kebunku.database.Kebun
 import com.bangkit.tanamoretest.ui.kebunku.helper.ViewModelFactory
 import java.io.File
@@ -28,7 +29,7 @@ class KebunAddUpdateActivity : AppCompatActivity() {
         const val EXTRA_NOTE = "extra_note"
         const val ALERT_DIALOG_CLOSE = 10
         const val REQUEST_CODE = 1001
-        const val MAX_IMAGE_SIZE_MB = 8 // Ukuran maksimum gambar dalam MB
+        const val MAX_IMAGE_SIZE_MB = 8
     }
 
     private var isEdit = false
@@ -71,6 +72,12 @@ class KebunAddUpdateActivity : AppCompatActivity() {
 
         _activityKebunAddUpdateBinding = ActivityKebunAddUpdateBinding.inflate(layoutInflater)
         setContentView(binding?.root)
+
+        binding?.icBack?.setOnClickListener {
+            val intent = Intent(this, KebunkuFragment::class.java)
+            startActivity(intent)
+            finish()
+        }
 
         kebunAddUpdateViewModel = obtainViewModel(this@KebunAddUpdateActivity)
 

@@ -31,7 +31,7 @@ class LoginActivity : AppCompatActivity() {
                 binding.email.requestFocus()
                 return@setOnClickListener
             }
-            if (!Patterns.EMAIL_ADDRESS.matcher(email).matches()) { // Gunakan Patterns.EMAIL_ADDRESS
+            if (!Patterns.EMAIL_ADDRESS.matcher(email).matches()) {
                 binding.email.error = "Email tidak valid!"
                 binding.email.requestFocus()
                 return@setOnClickListener

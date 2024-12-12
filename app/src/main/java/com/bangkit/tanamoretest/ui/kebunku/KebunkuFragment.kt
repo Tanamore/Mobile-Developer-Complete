@@ -29,31 +29,25 @@ class KebunkuFragment : Fragment() {
         _binding = FragmentKebunkuBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        // Menginisialisasi ViewModel
         mainViewModel = obtainViewModel()
 
-        // Inisialisasi Adapter dengan memberikan mainViewModel
         adapter = KebunAdapter(mainViewModel)
 
-        // Set up RecyclerView
         binding.rvKebun.layoutManager = LinearLayoutManager(requireContext())
         binding.rvKebun.setHasFixedSize(true)
         binding.rvKebun.adapter = adapter
 
-        // Observasi data dari ViewModel
         mainViewModel.getAllKebun().observe(viewLifecycleOwner) { noteList ->
             if (noteList != null) {
                 adapter.setListKebun(noteList)
             }
         }
 
-        // Mengatur klik untuk menambah kebun
         binding.fabAdd.setOnClickListener {
             val intent = Intent(requireContext(), KebunAddUpdateActivity::class.java)
             startActivity(intent)
         }
 
-        // Mengatur klik untuk ikon lonceng
         binding.ivBell.setOnClickListener {
             val intent = Intent(requireContext(), ReminderActivity::class.java)
             startActivity(intent)

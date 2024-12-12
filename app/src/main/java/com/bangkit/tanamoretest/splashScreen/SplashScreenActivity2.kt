@@ -14,13 +14,11 @@ class SplashScreenActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen2)
 
-        // Tombol Next untuk berpindah ke SplashScreenActivity2
         val nextButton = findViewById<MaterialButton>(R.id.btn_next)
         nextButton.setOnClickListener {
-            // Pindah ke SplashScreenActivity2
             Intent(this, SplashScreenActivity3::class.java).also {
                 startActivity(it)
-                finish() // Tutup SplashScreenActivity agar tidak kembali lagi
+                finish()
             }
         }
     }

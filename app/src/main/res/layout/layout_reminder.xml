@@ -21,7 +21,6 @@
             android:padding="16dp"
             android:background="@color/primary_green">
 
-            <!-- Icon Alarm -->
             <ImageView
                 android:layout_width="36dp"
                 android:layout_height="36dp"
@@ -29,7 +28,6 @@
                 android:layout_gravity="center"
                 android:layout_marginBottom="12dp" />
 
-            <!-- Title dan Button Delete -->
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
@@ -58,7 +56,6 @@
                     android:padding="8dp" />
             </RelativeLayout>
 
-            <!-- Reminder Date -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -82,7 +79,6 @@
 
             </LinearLayout>
 
-            <!-- Reminder Time -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

@@ -17,7 +17,6 @@
         android:elevation="4dp"
         tools:ignore="MissingConstraints">
 
-        <!-- Icon Kembali -->
         <ImageView
             android:id="@+id/iv_back"
             android:layout_width="30dp"
@@ -27,7 +26,6 @@
             android:layout_gravity="center_vertical"
             android:layout_marginEnd="16dp" />
 
-        <!-- Teks Tambahkan Reminder -->
         <TextView
             android:id="@+id/tv_reminder"
             android:layout_width="wrap_content"
@@ -40,7 +38,6 @@
             android:gravity="center"
             android:textAppearance="@style/tittle_green"/>
 
-        <!-- Ruang untuk mengatur tata letak -->
         <View
             android:layout_width="0dp"
             android:layout_height="0dp"

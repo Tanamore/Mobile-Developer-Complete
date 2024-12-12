@@ -51,7 +51,6 @@ class KebunAdapter(private val kebunkuViewModel: KebunkuViewModel) : RecyclerVie
                 }
                 tvItemDescription.text = shortDescription
 
-                // Load image using Glide if the image path is not null
                 kebun.imagePath?.let {
                     Glide.with(itemView.context)
                         .load(Uri.parse(it))

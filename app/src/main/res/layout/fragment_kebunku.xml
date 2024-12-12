@@ -13,7 +13,6 @@
         android:padding="8dp"
         android:elevation="4dp">
 
-        <!-- Teks Kebunku -->
         <TextView
             android:id="@+id/tv_kebunku"
             android:layout_width="0dp"
@@ -25,7 +24,6 @@
             android:gravity="center"
             android:textAppearance="@style/tittle_green"/>
 
-        <!-- Bell Icon -->
         <ImageView
             android:id="@+id/iv_bell"
             android:layout_width="35dp"

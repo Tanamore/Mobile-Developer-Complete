@@ -163,15 +163,12 @@ class ScanPenyakitFragment : Fragment() {
                 if (response.isSuccessful && response.body() != null) {
                     val deteksiPenyakitResponse = response.body() // Response with DeteksiPenyakitResponse
 
-                    // Extract the necessary data from the response
                     val result = deteksiPenyakitResponse?.data?.result ?: "No result"
                     val confidence = deteksiPenyakitResponse?.data?.confidence ?: "Unknown confidence"
                     val diseaseInfo = deteksiPenyakitResponse?.data?.diseaseInfo
 
-                    // Log or check the values
                     Log.d("AnalyzeImage", "Result: $result, Confidence: $confidence")
 
-                    // Create intent to pass data to the next activity
                     val intent = Intent(requireContext(), DetailPenyakitActivity::class.java).apply {
                         putExtra("ANALYSIS_RESULT", result)
                         putExtra("CONFIDENCE", confidence)

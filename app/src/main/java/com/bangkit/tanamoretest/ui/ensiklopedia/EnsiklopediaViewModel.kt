@@ -56,7 +56,6 @@ class EnsiklopediaViewModel : ViewModel() {
                 if (response.isSuccessful) {
                     val data = response.body()?.data
                     if (data != null) {
-                        // Sesuaikan data dengan DataItem yang sesuai
                         _ensiklopediaDetailState.value = EnsiklopediaDetailState.Success(data)
                     } else {
                         _ensiklopediaDetailState.value = EnsiklopediaDetailState.Error("Story not found.")
@@ -77,10 +76,9 @@ class EnsiklopediaViewModel : ViewModel() {
             try {
                 val response = apiService.searchEnsiklopedia(query)
                 if (response.isSuccessful) {
-                    // Filter data null menjadi list yang hanya berisi non-null items
                     val nonNullData = response.body()?.data?.filterNotNull() ?: emptyList()
                     _searchResults.value = response.body()
-                    _ensiklopediaState.value = EnsiklopediaState.Success(nonNullData) // Pastikan tipe data sesuai
+                    _ensiklopediaState.value = EnsiklopediaState.Success(nonNullData)
                 } else {
                     _ensiklopediaState.value = EnsiklopediaState.Error("Error: ${response.message()}")
                 }

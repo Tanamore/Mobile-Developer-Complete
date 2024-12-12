@@ -17,19 +17,15 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        // Menginisialisasi binding
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // Menginisialisasi FirebaseAuth
         auth = FirebaseAuth.getInstance()
 
 
 
-        // Menginisialisasi BottomNavigationView
         val navView: BottomNavigationView = binding.navView
 
-        // Menghubungkan NavController dengan BottomNavigationView
         val navController = findNavController(R.id.nav_host_fragment)
         navView.setupWithNavController(navController)
     }

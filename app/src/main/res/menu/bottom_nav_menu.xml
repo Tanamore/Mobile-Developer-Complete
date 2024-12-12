@@ -3,7 +3,7 @@
 
     <item
         android:id="@+id/navigation_scan_prnyakit"
-        android:icon="@drawable/scan"
+        android:icon="@drawable/camera"
         android:title="@string/halaman_ensiklopdia" />
 
     <item
@@ -13,7 +13,7 @@
 
     <item
         android:id="@+id/navigation_kebunku"
-        android:icon="@drawable/ic_notifications_black_24dp"
+        android:icon="@drawable/plant"
         android:title="@string/title_kebunku" />
 
 

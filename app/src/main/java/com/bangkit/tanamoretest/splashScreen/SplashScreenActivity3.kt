@@ -18,24 +18,19 @@ class SplashScreenActivity3 : AppCompatActivity() {
         setContentView(R.layout.activity_splash_screen3
         )
 
-        // Inisialisasi FirebaseAuth
         auth = FirebaseAuth.getInstance()
 
-        // Tombol Next untuk berpindah ke layar berikutnya
         val nextButton = findViewById<MaterialButton>(R.id.btn_next)
         nextButton.setOnClickListener {
-            // Cek apakah user sudah login
             if (auth.currentUser != null) {
-                // Jika sudah login, arahkan ke MainActivity
                 Intent(this, MainActivity::class.java).also {
                     startActivity(it)
-                    finish() // Tutup SplashScreen agar tidak kembali lagi
+                    finish()
                 }
             } else {
-                // Jika belum login, arahkan ke LoginActivity
                 Intent(this, LoginActivity::class.java).also {
                     startActivity(it)
-                    finish() // Tutup SplashScreen agar tidak kembali lagi
+                    finish()
                 }
             }
         }

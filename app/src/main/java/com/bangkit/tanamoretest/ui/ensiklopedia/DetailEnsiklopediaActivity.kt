@@ -23,20 +23,17 @@ class DetailEnsiklopediaActivity : AppCompatActivity() {
 
         val dataItem: DataItem? = intent.getParcelableExtra("DATA_ITEM")
         dataItem?.let { data ->
-            // Memuat gambar tanaman
             Glide.with(this)
                 .load(data.imageUrl)
                 .centerCrop()
                 .into(binding.ivPlantImage)
 
-            // Menampilkan nama tanaman dan nama ilmiah
             binding.tvPlantName.text = data.plantName ?: "Unknown Plant"
             binding.tvScientificName.text = "Scientific Name: ${data.scientificName ?: "-"}"
 
             val plantId = data.id ?: ""
 
             if (plantId.isNotEmpty()) {
-                // Meminta detail ensiklopedia menggunakan plantId
                 viewModel.fetchEnsiklopediaDetail(plantId)
                 viewModel.ensiklopediaDetailState.observe(this) { state ->
                     when (state) {

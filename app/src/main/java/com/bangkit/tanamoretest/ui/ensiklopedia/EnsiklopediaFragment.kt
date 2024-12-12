@@ -29,10 +29,8 @@ class EnsiklopediaFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // Inisialisasi ViewModel
         viewModel = ViewModelProvider(this)[EnsiklopediaViewModel::class.java]
 
-        // Inisialisasi Adapter
         adapter = EnsiklopediaAdapter { dataItem ->
             val plantId = dataItem.id ?: ""
 
@@ -46,11 +44,9 @@ class EnsiklopediaFragment : Fragment() {
             }
         }
 
-        // Setup RecyclerView
         binding.rvPlantList.adapter = adapter
         binding.rvPlantList.layoutManager = LinearLayoutManager(requireContext())
 
-        // Observasi perubahan pada state data
         viewModel.ensiklopediaState.observe(viewLifecycleOwner) { state ->
             when (state) {
                 is EnsiklopediaViewModel.EnsiklopediaState.Loading -> {
@@ -77,7 +73,6 @@ class EnsiklopediaFragment : Fragment() {
         }
 
         viewModel.searchResults.observe(viewLifecycleOwner) { response ->
-            // Proses hasil pencarian jika ada
             response?.data?.let {
                 adapter.submitList(it)
             } ?: run {

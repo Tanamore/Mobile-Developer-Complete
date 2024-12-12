@@ -15,7 +15,6 @@ class KebunDiffCallback(private val oldKebunList: List<Kebun>, private val newKe
         val oldKebun = oldKebunList[oldItemPosition]
         val newKebun = newKebunList[newItemPosition]
 
-        // Perbandingan tambahan untuk kolom gambar
         return oldKebun.title == newKebun.title &&
                 oldKebun.description == newKebun.description &&
                 oldKebun.imagePath == newKebun.imagePath

@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".splashScreen.SplashScreenActivity">
 
-    <!-- ImageView untuk menampilkan gambar splashscreen -->
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -15,7 +14,6 @@
         android:contentDescription="Splash Screen Image"
         android:scaleType="fitXY" />
 
-    <!-- Tombol Next di Tengah Bawah -->
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btn_next"
         android:layout_width="wrap_content"
