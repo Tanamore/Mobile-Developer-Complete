@@ -1,0 +1,944 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:2:1-84:12
+MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\351ac204228fed9c7a2eba4b80cba924\transformed\viewbinding-8.7.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1319f8628081774be8c387c9c81386be\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\713e6cdb19349acafda7afe600f57a90\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\559a1fed7c21ae015660d1edfffb6367\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3d16c1b105479ca68208ad5b4826c296\transformed\navigation-common-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\52c0a7f290c1231c00c4ffd9f94b2c78\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b6bebf6bd1626913f0327019feb5109d\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\bf2a49ebe805bb9e234de2081819f443\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82ffe2d2d2c90f940c2c449247154289\transformed\navigation-fragment-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\8161ff59fd3509cf3314c8dec74e7cd5\transformed\navigation-fragment-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a87772a04cbe470a18370ec371c69e84\transformed\navigation-ui-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c2811c8ff996b2a0fd1c0a03e5b0022d\transformed\navigation-ui-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\55bc3bd4fda21d8943200afa781331f9\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5cf17150ac4da7a74bab73b48d6c438b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-video:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a9093664647c0566a9e2436556c1f14d\transformed\camera-video-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\61bd7103565499fc4fbb5d6bc6ea8146\transformed\camera-lifecycle-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-view:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\4880ca50ce3a11b491c8ebffd4bc3df0\transformed\camera-view-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\cae40285bcdb30aa039e7bbcc06fd0ca\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7c0828fbc3e62a3065476beb6327aa24\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\39ecdb17ea7414ff113ccaece161e40a\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ca967982e900c409b7c2c6a9e6ffdaa6\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\441ff4693ec3c7806e6717a4f29d0c53\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c3128d34523482017b09ddc381f9eb04\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\311974a99bafd0677fd13a47ec92893c\transformed\integrity-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6124436c12ade040a724892bba980447\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\eda8c9457ffd9fa2efba7d10b7db66a0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ce0ee05e0e4715c45449106d93e22e3d\transformed\play-services-safetynet-18.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b028c1ff2b783677f8adbca0559271f6\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0b6da1345863b753a3b9f8dd1dacf86e\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3ee1be333349659b61ce8130199bc79e\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ec1905e2139f4cdc78a8ccb0d140fad1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b55310b6324e258e72d119720d0785b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6fcb02e7c46afe7c6edeae4b212ad48b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d333719999293d0e6dab0f329951c35b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\19ac43f2321ea5496d570f5bcbc72f2b\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\500effdfa7fc235b811fb39dca9d22e7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\40b95b4d4a24feb8806dc625f88d1095\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50c6609ecca8549a533d56fe43f237db\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\40b063c23b7fe80688e974021203d559\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5e22638cf379a7b1327d72e54c830a87\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0edd0443afba6cdacc1126374c0cbbba\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7feaf455e6588ed1f2498db14b732ec0\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e33faa5d1a7c00d355323f1bb239d00c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\173c42ba82c3bf93011716f9a33940d8\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5acb6deff06635c2d4d27f67edaa5c57\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b6626beb3309cd2578adb08a8a6e2aa7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5ae7fa523fa29fa7a75eaf1cb96e5f8f\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\07d2543a69f986281da3d4183ce5c482\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2ff0093fb5d1f81cb8463cc0b10687e0\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9844af39f44eef5b6c2ad4b25b55326a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3b638bb0b1e042d4cbad73611dc62d3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\951a213f456343c3a0402501668410d2\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2eb4a5fdbf9d7874a8e650ddd402fa51\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\149e4345e36d7ae807de84bba684ba01\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6340d0fabe8dd340bee7d30e8255b679\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0eea4c7acd8f810a520136197f66e886\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\88f2810cc332d59f33323107c8437e46\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f200001e2165da5fe92a77b8acf81348\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2e40ef68528e92e6a01cbde2752c092f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2a7b815d7985822902ba3a58e57d19fc\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\88201a264735ab0b4b079c57ce503144\transformed\fragment-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e7de466c63d73622b9e503633eebe54a\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\cc7967c2771fc6a6fc64d5caa5f75bb8\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9dbd950d0e0e924e0e81607648b30a4a\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e344ee1f4bcba02a7aee0ce9958ca3cd\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\262a465815b3e8d44c3e27daa0849b59\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\165697c7b50cec52dd4a88d229a8c46c\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9bc1972d9f4901dba076825405fefa64\transformed\tracing-ktx-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b14a38ecacdd8cdba4b1dd9773590940\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\8148afb760b1948706259e11d3a0d913\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\17d09d9360e3c770cf1cf3bf9e06141f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f239056a438789d32a99af228f3107e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\509f743e14fa9044a521b077fe917b87\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\744427ce754c2628336a0f43eec2ed4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\702688b03c98f48e0fea48adcbed0312\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\98c91d74c0d640cc051bce44b91cf44a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fcc44fcf68bd95ca69ba23627515ec01\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1fad5fb6c25e5f5ab6d35984e9fdaa18\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1e6a90892b27fd1ecc64e14d342f24a4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e62cb113c41476c8ad1a78845474e4b0\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0a9d4547ed629858ac942aa347892949\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fab89a9a3099c59c1a9160d9bd9ac40a\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\bb4122bb64ef7e61355c48987d4b10e1\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\4bcc2da03150c8b41da8d78653e87b16\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:10:5-12:71
+	tools:ignore
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:12:9-68
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:11:9-49
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:17:5-77
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:17:22-74
+application
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:19:5-82:19
+INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:19:5-82:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\55bc3bd4fda21d8943200afa781331f9\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\55bc3bd4fda21d8943200afa781331f9\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5cf17150ac4da7a74bab73b48d6c438b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5cf17150ac4da7a74bab73b48d6c438b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:23:5-34:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\39ecdb17ea7414ff113ccaece161e40a\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\39ecdb17ea7414ff113ccaece161e40a\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\311974a99bafd0677fd13a47ec92893c\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\311974a99bafd0677fd13a47ec92893c\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6124436c12ade040a724892bba980447\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6124436c12ade040a724892bba980447\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\eda8c9457ffd9fa2efba7d10b7db66a0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\eda8c9457ffd9fa2efba7d10b7db66a0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ce0ee05e0e4715c45449106d93e22e3d\transformed\play-services-safetynet-18.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ce0ee05e0e4715c45449106d93e22e3d\transformed\play-services-safetynet-18.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b028c1ff2b783677f8adbca0559271f6\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b028c1ff2b783677f8adbca0559271f6\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2e40ef68528e92e6a01cbde2752c092f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2e40ef68528e92e6a01cbde2752c092f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2a7b815d7985822902ba3a58e57d19fc\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2a7b815d7985822902ba3a58e57d19fc\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\262a465815b3e8d44c3e27daa0849b59\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\262a465815b3e8d44c3e27daa0849b59\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\17d09d9360e3c770cf1cf3bf9e06141f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\17d09d9360e3c770cf1cf3bf9e06141f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fcc44fcf68bd95ca69ba23627515ec01\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fcc44fcf68bd95ca69ba23627515ec01\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fab89a9a3099c59c1a9160d9bd9ac40a\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fab89a9a3099c59c1a9160d9bd9ac40a\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:24:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:22:9-54
+	android:roundIcon
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:25:9-54
+	tools:targetApi
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:28:9-29
+	android:icon
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:27:9-50
+	android:dataExtractionRules
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:21:9-65
+activity#com.bangkit.tanamoretest.splashScreen.SplashScreenActivity3
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:30:13-63
+activity#com.bangkit.tanamoretest.splashScreen.SplashScreenActivity2
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:33:13-63
+activity#com.bangkit.tanamoretest.ui.scanPenyakit.DetailPenyakitActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:36:13-67
+activity#com.bangkit.tanamoretest.scanTanaman.DetailTanamanActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:39:13-62
+activity#com.bangkit.tanamoretest.scanTanaman.ScanTanamanActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:42:13-60
+activity#com.bangkit.tanamoretest.ui.ensiklopedia.DetailEnsiklopediaActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:45:13-71
+activity#com.bangkit.tanamoretest.reminder.AddReminderActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:47:9-49:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:48:13-57
+activity#com.bangkit.tanamoretest.reminder.ReminderActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:50:9-52:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:51:13-54
+activity#com.bangkit.tanamoretest.ui.kebunku.insert.KebunAddUpdateActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:53:9-55:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:54:13-69
+activity#com.bangkit.tanamoretest.ui.profile.ResetPasswordActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:57:13-61
+activity#com.bangkit.tanamoretest.ui.profile.UpdatePasswordActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:59:9-61:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:60:13-62
+activity#com.bangkit.tanamoretest.splashScreen.SplashScreenActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:62:9-70:20
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:64:13-36
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:63:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:65:13-69:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:66:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:68:27-74
+activity#com.bangkit.tanamoretest.MainActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:71:9-73:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:72:13-41
+activity#com.bangkit.tanamoretest.register.RegisterActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:74:9-76:40
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:75:13-54
+activity#com.bangkit.tanamoretest.login.LoginActivity
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:77:9-79:39
+	android:exported
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:78:13-48
+receiver#com.bangkit.tanamoretest.reminder.ReminderReceiver
+ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:81:9-63
+	android:name
+		ADDED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml:81:19-60
+uses-sdk
+INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\351ac204228fed9c7a2eba4b80cba924\transformed\viewbinding-8.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\351ac204228fed9c7a2eba4b80cba924\transformed\viewbinding-8.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1319f8628081774be8c387c9c81386be\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1319f8628081774be8c387c9c81386be\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\713e6cdb19349acafda7afe600f57a90\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\713e6cdb19349acafda7afe600f57a90\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\559a1fed7c21ae015660d1edfffb6367\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\559a1fed7c21ae015660d1edfffb6367\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3d16c1b105479ca68208ad5b4826c296\transformed\navigation-common-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3d16c1b105479ca68208ad5b4826c296\transformed\navigation-common-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\52c0a7f290c1231c00c4ffd9f94b2c78\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\52c0a7f290c1231c00c4ffd9f94b2c78\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b6bebf6bd1626913f0327019feb5109d\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b6bebf6bd1626913f0327019feb5109d\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\bf2a49ebe805bb9e234de2081819f443\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\bf2a49ebe805bb9e234de2081819f443\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82ffe2d2d2c90f940c2c449247154289\transformed\navigation-fragment-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82ffe2d2d2c90f940c2c449247154289\transformed\navigation-fragment-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\8161ff59fd3509cf3314c8dec74e7cd5\transformed\navigation-fragment-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\8161ff59fd3509cf3314c8dec74e7cd5\transformed\navigation-fragment-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a87772a04cbe470a18370ec371c69e84\transformed\navigation-ui-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a87772a04cbe470a18370ec371c69e84\transformed\navigation-ui-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c2811c8ff996b2a0fd1c0a03e5b0022d\transformed\navigation-ui-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c2811c8ff996b2a0fd1c0a03e5b0022d\transformed\navigation-ui-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\55bc3bd4fda21d8943200afa781331f9\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\55bc3bd4fda21d8943200afa781331f9\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5cf17150ac4da7a74bab73b48d6c438b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5cf17150ac4da7a74bab73b48d6c438b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-video:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a9093664647c0566a9e2436556c1f14d\transformed\camera-video-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a9093664647c0566a9e2436556c1f14d\transformed\camera-video-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\61bd7103565499fc4fbb5d6bc6ea8146\transformed\camera-lifecycle-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\61bd7103565499fc4fbb5d6bc6ea8146\transformed\camera-lifecycle-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-view:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\4880ca50ce3a11b491c8ebffd4bc3df0\transformed\camera-view-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\4880ca50ce3a11b491c8ebffd4bc3df0\transformed\camera-view-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\cae40285bcdb30aa039e7bbcc06fd0ca\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\cae40285bcdb30aa039e7bbcc06fd0ca\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7c0828fbc3e62a3065476beb6327aa24\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7c0828fbc3e62a3065476beb6327aa24\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\39ecdb17ea7414ff113ccaece161e40a\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\39ecdb17ea7414ff113ccaece161e40a\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ca967982e900c409b7c2c6a9e6ffdaa6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ca967982e900c409b7c2c6a9e6ffdaa6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\441ff4693ec3c7806e6717a4f29d0c53\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\441ff4693ec3c7806e6717a4f29d0c53\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c3128d34523482017b09ddc381f9eb04\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c3128d34523482017b09ddc381f9eb04\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\311974a99bafd0677fd13a47ec92893c\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\311974a99bafd0677fd13a47ec92893c\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6124436c12ade040a724892bba980447\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6124436c12ade040a724892bba980447\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\eda8c9457ffd9fa2efba7d10b7db66a0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\eda8c9457ffd9fa2efba7d10b7db66a0\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ce0ee05e0e4715c45449106d93e22e3d\transformed\play-services-safetynet-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ce0ee05e0e4715c45449106d93e22e3d\transformed\play-services-safetynet-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b028c1ff2b783677f8adbca0559271f6\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b028c1ff2b783677f8adbca0559271f6\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0b6da1345863b753a3b9f8dd1dacf86e\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0b6da1345863b753a3b9f8dd1dacf86e\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3ee1be333349659b61ce8130199bc79e\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3ee1be333349659b61ce8130199bc79e\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ec1905e2139f4cdc78a8ccb0d140fad1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\ec1905e2139f4cdc78a8ccb0d140fad1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b55310b6324e258e72d119720d0785b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b55310b6324e258e72d119720d0785b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6fcb02e7c46afe7c6edeae4b212ad48b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6fcb02e7c46afe7c6edeae4b212ad48b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d333719999293d0e6dab0f329951c35b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d333719999293d0e6dab0f329951c35b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\19ac43f2321ea5496d570f5bcbc72f2b\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\19ac43f2321ea5496d570f5bcbc72f2b\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\500effdfa7fc235b811fb39dca9d22e7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\500effdfa7fc235b811fb39dca9d22e7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\40b95b4d4a24feb8806dc625f88d1095\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\40b95b4d4a24feb8806dc625f88d1095\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50c6609ecca8549a533d56fe43f237db\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50c6609ecca8549a533d56fe43f237db\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\40b063c23b7fe80688e974021203d559\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\40b063c23b7fe80688e974021203d559\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5e22638cf379a7b1327d72e54c830a87\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5e22638cf379a7b1327d72e54c830a87\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0edd0443afba6cdacc1126374c0cbbba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0edd0443afba6cdacc1126374c0cbbba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7feaf455e6588ed1f2498db14b732ec0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7feaf455e6588ed1f2498db14b732ec0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e33faa5d1a7c00d355323f1bb239d00c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e33faa5d1a7c00d355323f1bb239d00c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\173c42ba82c3bf93011716f9a33940d8\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\173c42ba82c3bf93011716f9a33940d8\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5acb6deff06635c2d4d27f67edaa5c57\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5acb6deff06635c2d4d27f67edaa5c57\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b6626beb3309cd2578adb08a8a6e2aa7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b6626beb3309cd2578adb08a8a6e2aa7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5ae7fa523fa29fa7a75eaf1cb96e5f8f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5ae7fa523fa29fa7a75eaf1cb96e5f8f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\07d2543a69f986281da3d4183ce5c482\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\07d2543a69f986281da3d4183ce5c482\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2ff0093fb5d1f81cb8463cc0b10687e0\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2ff0093fb5d1f81cb8463cc0b10687e0\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9844af39f44eef5b6c2ad4b25b55326a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9844af39f44eef5b6c2ad4b25b55326a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3b638bb0b1e042d4cbad73611dc62d3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3b638bb0b1e042d4cbad73611dc62d3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\951a213f456343c3a0402501668410d2\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\951a213f456343c3a0402501668410d2\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2eb4a5fdbf9d7874a8e650ddd402fa51\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2eb4a5fdbf9d7874a8e650ddd402fa51\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\149e4345e36d7ae807de84bba684ba01\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\149e4345e36d7ae807de84bba684ba01\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6340d0fabe8dd340bee7d30e8255b679\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6340d0fabe8dd340bee7d30e8255b679\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0eea4c7acd8f810a520136197f66e886\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0eea4c7acd8f810a520136197f66e886\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\88f2810cc332d59f33323107c8437e46\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\88f2810cc332d59f33323107c8437e46\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f200001e2165da5fe92a77b8acf81348\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f200001e2165da5fe92a77b8acf81348\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2e40ef68528e92e6a01cbde2752c092f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2e40ef68528e92e6a01cbde2752c092f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2a7b815d7985822902ba3a58e57d19fc\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2a7b815d7985822902ba3a58e57d19fc\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\88201a264735ab0b4b079c57ce503144\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\88201a264735ab0b4b079c57ce503144\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e7de466c63d73622b9e503633eebe54a\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e7de466c63d73622b9e503633eebe54a\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\cc7967c2771fc6a6fc64d5caa5f75bb8\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\cc7967c2771fc6a6fc64d5caa5f75bb8\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9dbd950d0e0e924e0e81607648b30a4a\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9dbd950d0e0e924e0e81607648b30a4a\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e344ee1f4bcba02a7aee0ce9958ca3cd\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e344ee1f4bcba02a7aee0ce9958ca3cd\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\262a465815b3e8d44c3e27daa0849b59\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\262a465815b3e8d44c3e27daa0849b59\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\165697c7b50cec52dd4a88d229a8c46c\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\165697c7b50cec52dd4a88d229a8c46c\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9bc1972d9f4901dba076825405fefa64\transformed\tracing-ktx-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\9bc1972d9f4901dba076825405fefa64\transformed\tracing-ktx-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b14a38ecacdd8cdba4b1dd9773590940\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b14a38ecacdd8cdba4b1dd9773590940\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\8148afb760b1948706259e11d3a0d913\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\8148afb760b1948706259e11d3a0d913\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\17d09d9360e3c770cf1cf3bf9e06141f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\17d09d9360e3c770cf1cf3bf9e06141f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f239056a438789d32a99af228f3107e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f239056a438789d32a99af228f3107e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\509f743e14fa9044a521b077fe917b87\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\509f743e14fa9044a521b077fe917b87\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\744427ce754c2628336a0f43eec2ed4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\744427ce754c2628336a0f43eec2ed4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\702688b03c98f48e0fea48adcbed0312\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\702688b03c98f48e0fea48adcbed0312\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\98c91d74c0d640cc051bce44b91cf44a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\98c91d74c0d640cc051bce44b91cf44a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fcc44fcf68bd95ca69ba23627515ec01\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fcc44fcf68bd95ca69ba23627515ec01\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1fad5fb6c25e5f5ab6d35984e9fdaa18\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1fad5fb6c25e5f5ab6d35984e9fdaa18\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1e6a90892b27fd1ecc64e14d342f24a4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1e6a90892b27fd1ecc64e14d342f24a4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e62cb113c41476c8ad1a78845474e4b0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\e62cb113c41476c8ad1a78845474e4b0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0a9d4547ed629858ac942aa347892949\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\0a9d4547ed629858ac942aa347892949\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fab89a9a3099c59c1a9160d9bd9ac40a\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\fab89a9a3099c59c1a9160d9bd9ac40a\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\bb4122bb64ef7e61355c48987d4b10e1\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\bb4122bb64ef7e61355c48987d4b10e1\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\4bcc2da03150c8b41da8d78653e87b16\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\4bcc2da03150c8b41da8d78653e87b16\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\src\main\AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:24:9-33:19
+	android:enabled
+		ADDED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:31:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:32:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:33:13-75
+	android:name
+		ADDED from [androidx.camera:camera-core:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\a1da1abc2bf45737593e8b589bcb8b83\transformed\camera-core-1.4.0\AndroidManifest.xml:30:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\910bfe5c2180bb39ecae40a65b014cb3\transformed\camera-camera2-1.4.0\AndroidManifest.xml:31:17-103
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f5c5120c19a6d916648838b66566001c\transformed\firebase-auth-23.1.0\AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f2e5bd259daa61ccbfc85de37ba7541f\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\5bf697fb083e74020e9873e382e7f028\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\04bc41b9d7cd92263b665520cec71557\transformed\firebase-storage-21.0.1\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.safetynet.FirebaseAppCheckSafetyNetRegistrar
+ADDED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck-safetynet:16.1.2] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\3534584b0a4e20dd027ce1f93c607c8f\transformed\firebase-appcheck-safetynet-16.1.2\AndroidManifest.xml:28:17-136
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\f0aab485108593f5f38c1123b6307fc9\transformed\recaptcha-18.5.1\AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.playintegrity.FirebaseAppCheckPlayIntegrityRegistrar
+ADDED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\50e99b91725358124a6a55a4f8b5edc0\transformed\firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:26:17-144
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\c109222c450de9bf5f3cd22dd7cfc6ed\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:29:17-117
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\1ee8db480d5965f3c19643a3c61fe3a4\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\384f2496aa4fa13130ed90b067090320\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\262a465815b3e8d44c3e27daa0849b59\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\262a465815b3e8d44c3e27daa0849b59\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\65c11f7bf9fb683427fefaf54289518e\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\82f0adcec8a79c948c3757096cb6feff\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\6855c27593ef26f714e056e610715bf5\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.bangkit.tanamoretest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.bangkit.tanamoretest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\7b3c29c18c7d9f6688c7fe0bc1b12bf5\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\981795243eb1ea1dc899a0428edd80e1\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\198abe1bc675687becb8e2ec46c356a5\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2a7b815d7985822902ba3a58e57d19fc\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2a7b815d7985822902ba3a58e57d19fc\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2a7b815d7985822902ba3a58e57d19fc\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\b21b0d1a53933af446e12b5226d04c5b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\2c2993cf0f39d4419a84368a3ad045ce\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\d1a4319eee3e8f995dc263d8b159b6e4\transformed\core-common-2.0.3\AndroidManifest.xml:15:13-93

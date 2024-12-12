@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bangkit.tanamoretest.app-mergeDebugResources-3:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\caches\\8.9\\transforms\\55bc3bd4fda21d8943200afa781331f9\\transformed\\material-1.12.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

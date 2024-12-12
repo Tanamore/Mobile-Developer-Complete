@@ -1,0 +1,6 @@
+com.bangkit.tanamoretest.test.app-androidTest-0 C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\build\generated\res\resValues\androidTest\debug
+com.bangkit.tanamoretest.test.app-mergeDebugAndroidTestResources-1 C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.bangkit.tanamoretest.test.app-mergeDebugAndroidTestResources-2 C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.bangkit.tanamoretest.test.app-debugAndroidTest-3 C:\Users\Aldhi Saputra\AndroidStudioProjects\TanamoreTest\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.bangkit.tanamoretest.test.app-tracing-1.2.0-4 C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\165697c7b50cec52dd4a88d229a8c46c\transformed\tracing-1.2.0\res
+com.bangkit.tanamoretest.test.app-core-1.6.1-5 C:\Users\Aldhi Saputra\AndroidStudioProjects\caches\8.9\transforms\4abf5da128db2780a280978085a8b10c\transformed\core-1.6.1\res

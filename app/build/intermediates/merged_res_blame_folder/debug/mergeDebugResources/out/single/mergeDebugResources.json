@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_icon_delete.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\icon_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_baseline_good.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\baseline_good.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\font_poppins_thin.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\font\\poppins_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_bg_image_border.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\bg_image_border.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_fragment_profile.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_bg_rounded_top.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\bg_rounded_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_splashscreen3.png.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\splashscreen3.png"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_rounded_header.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\rounded_header.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_layout_reminder.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/layout_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_detail_ensiklopedia.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_detail_ensiklopedia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_shutter.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_shutter.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_scan_tanaman.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_scan_tanaman.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_detail_tanaman.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_detail_tanaman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_login.png.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\login.png"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_detail_penyakit.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_detail_penyakit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_splashscreen2.png.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\splashscreen2.png"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_clear.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_register.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_baseline_alarm_24.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\baseline_alarm_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_download.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\download.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_reminder.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_splash_screen2.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_splash_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_bg_rounded_full.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\bg_rounded_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_baseline_add_a_photo_24.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\baseline_add_a_photo_24.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_splash_screen.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_splashscreen1.png.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\splashscreen1.png"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_reminder.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_fragment_ensiklopedia.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\fragment_ensiklopedia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_reminder.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_alarm.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_add_reminder.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_add_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_item_kebun.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\item_kebun.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_nav_item_color.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_detail_ensiklopedia.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_detail_ensiklopedia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_detail_penyakit.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_detail_penyakit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_kebun_add_update.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_kebun_add_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_fragment_kebunku.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\fragment_kebunku.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_icon_time.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\icon_time.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_splash_screen2.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_splash_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_layout_reminder.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\layout_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_gallery.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_plant.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\plant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_placeholder.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_cari.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_cari.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_bg_rounded_full_secondary.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\bg_rounded_full_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_item_ensiklopedia.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\item_ensiklopedia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_baseline_gpp_good_24.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\baseline_gpp_good_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_fragment_scan_penyakit.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\fragment_scan_penyakit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\font_poppins_light.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\font\\poppins_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\font_poppins_extrabold.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\font\\poppins_extrabold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_left.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_splash_screen3.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_splash_screen3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_camera.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_analyze.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_analyze.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_fragment_kebunku.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/fragment_kebunku.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_lonceng.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\lonceng.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_scan.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_update_password.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_update_password.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_login.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_shape_rectangle_outline.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\shape_rectangle_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_fragment_scan_penyakit.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/fragment_scan_penyakit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_scan_tanaman.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_scan_tanaman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_detail_tanaman.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_detail_tanaman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-debug-5:/layout_activity_splash_screen3.xml.flat",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_splash_screen3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_add_reminder.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_add_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\font_poppins_bold.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_contacts.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_logo.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_ic_tanaman.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\ic_tanaman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_rounded_search_bar.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\rounded_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-debug-5:\\drawable_icon_date.xml.flat",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\drawable\\icon_date.xml"
+    }
+]

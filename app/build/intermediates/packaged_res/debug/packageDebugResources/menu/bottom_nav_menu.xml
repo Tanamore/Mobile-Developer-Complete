@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_scan_prnyakit"
+        android:icon="@drawable/camera"
+        android:title="@string/halaman_ensiklopdia" />
+
+    <item
+        android:id="@+id/navigation_ensiklopedia"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/halaman_penyakit" />
+
+    <item
+        android:id="@+id/navigation_kebunku"
+        android:icon="@drawable/plant"
+        android:title="@string/title_kebunku" />
+
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/download"
+        android:title="@string/profile" />
+
+</menu>

@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_detail_ensiklopedia.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_detail_ensiklopedia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_reset_password.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/layout_reminder.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/layout_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_reminder.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_reminder.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_scan_tanaman.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_scan_tanaman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\item_kebun.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\item_kebun.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_register.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_reminder.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_detail_penyakit.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_detail_penyakit.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/fragment_profile.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\fragment_kebunku.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\fragment_kebunku.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_detail_tanaman.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_detail_tanaman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\fragment_ensiklopedia.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\fragment_ensiklopedia.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/fragment_scan_penyakit.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/fragment_scan_penyakit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\item_ensiklopedia.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\item_ensiklopedia.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_splash_screen2.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_splash_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_update_password.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_update_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_splash_screen2.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_splash_screen2.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_splash_screen.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_scan_tanaman.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_scan_tanaman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_splash_screen3.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_splash_screen3.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_detail_penyakit.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_detail_penyakit.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/fragment_kebunku.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/fragment_kebunku.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\layout_reminder.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\layout_reminder.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_detail_tanaman.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_detail_tanaman.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\fragment_scan_penyakit.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\fragment_scan_penyakit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_add_reminder.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_add_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_splash_screen3.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_splash_screen3.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_add_reminder.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_add_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-mergeDebugResources-4:\\layout\\activity_kebun_add_update.xml",
+        "source": "C:\\Users\\Aldhi Saputra\\AndroidStudioProjects\\daemon\\8.9\\com.bangkit.tanamoretest.app-main-7:\\layout\\activity_kebun_add_update.xml"
+    },
+    {
+        "merged": "com.bangkit.tanamoretest.app-mergeDebugResources-4:/layout/activity_detail_ensiklopedia.xml",
+        "source": "com.bangkit.tanamoretest.app-main-7:/layout/activity_detail_ensiklopedia.xml"
+    }
+]
